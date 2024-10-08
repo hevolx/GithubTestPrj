@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I changed the code");
+            Console.WriteLine("I changed the codes");
             Console.ReadLine();
         }
     }
